@@ -38,7 +38,18 @@ The notebooks provide both theoretical explanations and practical implementation
 
 ## Notebooks
 
+### Completed
+
 - [Math Foundations](notebooks/math_foundations.ipynb) - Core mathematical concepts for language models including probability, softmax, temperature, cross-entropy loss, and forward pass simulation
+
+### Work in Progress
+
+- [Tokenization](notebooks/tokenization.ipynb) - Breaking text into tokens, subword tokenization (BPE, WordPiece), vocabulary building
+- [Attention Mechanism](notebooks/attention_mechanism.ipynb) - Self-attention, multi-head attention, query-key-value paradigm
+- [Complete LLM Architecture](notebooks/llm_architecture.ipynb) - Transformer blocks, positional encodings, layer normalization, residual connections
+- [Training](notebooks/training.ipynb) - Backpropagation, gradient descent, optimization algorithms, training loops
+- [LoRA (Low-Rank Adaptation)](notebooks/lora.ipynb) - Efficient fine-tuning with low-rank matrices
+- [QLoRA (Quantized LoRA)](notebooks/qlora.ipynb) - Combining quantization with LoRA for memory-efficient fine-tuning
 
 ## Setup
 
